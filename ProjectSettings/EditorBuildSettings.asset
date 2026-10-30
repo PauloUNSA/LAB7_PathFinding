@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pathfinding.unity
+    guid: 95f11769906e3ff418ed8176985a3345
+  - enabled: 1
+    path: Assets/Scenes/PathfindingPropuesto.unity
+    guid: a90f85e4cb6dbcb40aada9e284b8abef
+  - enabled: 1
+    path: Assets/Tutorial3D/Scenes/AStarPath.unity
+    guid: 3bef399d2b961aa4fadbb526677e484e
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
